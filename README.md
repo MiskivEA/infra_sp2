@@ -5,7 +5,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone 
+git clone git@github.com:MiskivEA/infra_sp2.git
 ```
 
 ```
@@ -46,7 +46,7 @@ python3 manage.py runserver
 
 ###Запуск проекта в контейнерах
 ```
-git clone
+git clone git@github.com:MiskivEA/infra_sp2.git
 ```
 В каталоге infra_sp2/infra запусить сборку контейнеров
 ```
